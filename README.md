@@ -110,5 +110,5 @@ I enjoy building realistic blue-team labs, investigating attacker techniques, an
 
 ## Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: *(https://www.linkedin.com/in/paschal-chukwuemeka-4951273a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 - GitHub: https://github.com/urokopaschal-dot
